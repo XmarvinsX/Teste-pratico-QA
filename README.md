@@ -1,2 +1,2 @@
-# teste-pratico-ColmeIA
+# teste-pratico-QA
 Teste prático QA Colmeia
